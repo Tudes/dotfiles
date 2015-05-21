@@ -1,2 +1,1 @@
-# dotfiles
-Tudor's dotfiles
+# Tudor's dotfiles
